@@ -1,5 +1,6 @@
 # Newsbytes for PydataDelhi
 
+
 ## Meetup #11 25/06/17
 
 ## Research
@@ -20,6 +21,7 @@ Caffe2-based system trains ResNet-50 with a minibatch size of 8192 on 256 GPUs i
 * TensorFlow object detection API
 https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html
 * T2T: Tensor2Tensor Transformers
+
 
 
 
@@ -52,6 +54,7 @@ https://code.facebook.com/posts/162370720961195/
 * IPython 6.0 is out- without python 2 support!
 * Jupyter 5.0 released
 * ipyvolume 0.3 released
+
 
 
 ## Meetup #8 23/04/17
